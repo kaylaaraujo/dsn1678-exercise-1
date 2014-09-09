@@ -50,6 +50,7 @@ img {
 .table-1-3 {
 	width: 33%;
 	float: left;
+	border-left: thin;
 }
 
 .no-bullet {
