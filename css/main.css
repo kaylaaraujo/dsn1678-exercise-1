@@ -34,4 +34,8 @@ img {
 	width: 100%;
 }
 
-
+.table-title {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 16px;
+	color: #A8A8A8;
+}
